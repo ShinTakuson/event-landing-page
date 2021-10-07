@@ -1,0 +1,49 @@
+.speakerCardWrapper{
+    padding: 100px; 
+}
+.lead{text-shadow: 1px 1px #000000;
+margin: 20px 0}
+.speakerCard{
+    padding: 60px;
+    margin-bottom: 30px;
+    min-width: 300px;
+    max-width: 275px;
+
+}
+
+.img-thumbnail{
+    border: none;
+    border-radius: 16px;
+    min-width: 100px;
+    max-height: 275px;
+
+}
+.readButton{
+    margin: 40px 0;
+}
+.jumbotron {
+    background-image: url("/images/SyfiBackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p,h2{
+    text-align: center;
+}
+nav{
+    font-weight: bold;
+    width: 100%;
+}
+.logo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 200px;
+    padding: 8px 16px;
+    margin: 0;
+}
+.container-fluid{
+    padding: 0;
+}
+.row {margin: 0;}
+
+
+
+
